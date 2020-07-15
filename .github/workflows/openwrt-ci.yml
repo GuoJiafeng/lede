@@ -93,7 +93,7 @@ jobs:
           CONFIG_TARGET_brcm2708=y
           CONFIG_TARGET_brcm2708_bcm2710=y
           CONFIG_TARGET_brcm2708_bcm2710_DEVICE_rpi_3=y
-          # EOF
+          EOF
           # 固件压缩:
           # cat >> .config <<EOF
           # CONFIG_TARGET_IMAGES_GZIP=y
